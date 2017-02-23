@@ -1,6 +1,8 @@
 # Linux-Commands
 Here you can find some interesting commands and that can help you every day!
 
+
+### Change Terminal Name
 `if you run the following, you'll get what you want:`
 
 `export PS1="\[\e]0;\W\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ "`
